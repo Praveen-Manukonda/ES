@@ -1,0 +1,17 @@
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\bin\Debug\EmployeeBusiness.dll.config
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\bin\Debug\EmployeeBusiness.dll
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\bin\Debug\EmployeeBusiness.pdb
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\bin\Debug\EmployeeDBContext.dll
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\bin\Debug\EmployeeModels.dll
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\bin\Debug\EntityFramework.dll
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\bin\Debug\EmployeeDBContext.pdb
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\bin\Debug\EmployeeDBContext.dll.config
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\bin\Debug\EmployeeModels.pdb
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\bin\Debug\EntityFramework.xml
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\obj\Debug\EmployeeBusiness.csproj.AssemblyReference.cache
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\obj\Debug\EmployeeBusiness.csproj.CoreCompileInputs.cache
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\obj\Debug\EmployeeBusiness.csproj.CopyComplete
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\obj\Debug\EmployeeBusiness.dll
+C:\Users\manuk\source\repos\EmployeeService\EmployeeBusiness\obj\Debug\EmployeeBusiness.pdb

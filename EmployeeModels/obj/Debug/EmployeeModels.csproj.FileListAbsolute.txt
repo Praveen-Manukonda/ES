@@ -1,0 +1,8 @@
+C:\Users\manuk\source\repos\EmployeeService\EmployeeModels\bin\Debug\EmployeeModels.dll
+C:\Users\manuk\source\repos\EmployeeService\EmployeeModels\bin\Debug\EmployeeModels.pdb
+C:\Users\manuk\source\repos\EmployeeService\EmployeeModels\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\manuk\source\repos\EmployeeService\EmployeeModels\obj\Debug\EmployeeModels.csproj.AssemblyReference.cache
+C:\Users\manuk\source\repos\EmployeeService\EmployeeModels\obj\Debug\EmployeeModels.csproj.CoreCompileInputs.cache
+C:\Users\manuk\source\repos\EmployeeService\EmployeeModels\obj\Debug\EmployeeModels.csproj.CopyComplete
+C:\Users\manuk\source\repos\EmployeeService\EmployeeModels\obj\Debug\EmployeeModels.dll
+C:\Users\manuk\source\repos\EmployeeService\EmployeeModels\obj\Debug\EmployeeModels.pdb

@@ -1,0 +1,9 @@
+C:\Users\manuk\source\repos\EmployeeService\EmployeeServiceLogger\bin\Debug\EmployeeServiceLogger.dll
+C:\Users\manuk\source\repos\EmployeeService\EmployeeServiceLogger\bin\Debug\EmployeeServiceLogger.pdb
+C:\Users\manuk\source\repos\EmployeeService\EmployeeServiceLogger\bin\Debug\NLog.dll
+C:\Users\manuk\source\repos\EmployeeService\EmployeeServiceLogger\bin\Debug\NLog.xml
+C:\Users\manuk\source\repos\EmployeeService\EmployeeServiceLogger\obj\Debug\EmployeeServiceLogger.csproj.AssemblyReference.cache
+C:\Users\manuk\source\repos\EmployeeService\EmployeeServiceLogger\obj\Debug\EmployeeServiceLogger.csproj.CoreCompileInputs.cache
+C:\Users\manuk\source\repos\EmployeeService\EmployeeServiceLogger\obj\Debug\EmployeeServiceLogger.csproj.CopyComplete
+C:\Users\manuk\source\repos\EmployeeService\EmployeeServiceLogger\obj\Debug\EmployeeServiceLogger.dll
+C:\Users\manuk\source\repos\EmployeeService\EmployeeServiceLogger\obj\Debug\EmployeeServiceLogger.pdb
