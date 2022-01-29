@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeBusiness
 {
-    class ManageDepartment : IDBRepositary<Department>
+    public class ManageDepartment : IDBRepositary<Department>
     {
         EmployeeContext cntxt = null;
         public ManageDepartment()

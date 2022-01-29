@@ -7,3 +7,12 @@ C:\Users\manuk\source\repos\EmployeeService\EmployeeServiceLogger\obj\Debug\Empl
 C:\Users\manuk\source\repos\EmployeeService\EmployeeServiceLogger\obj\Debug\EmployeeServiceLogger.csproj.CopyComplete
 C:\Users\manuk\source\repos\EmployeeService\EmployeeServiceLogger\obj\Debug\EmployeeServiceLogger.dll
 C:\Users\manuk\source\repos\EmployeeService\EmployeeServiceLogger\obj\Debug\EmployeeServiceLogger.pdb
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeServiceLogger\bin\Debug\EmployeeServiceLogger.dll
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeServiceLogger\bin\Debug\EmployeeServiceLogger.pdb
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeServiceLogger\bin\Debug\NLog.dll
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeServiceLogger\bin\Debug\NLog.xml
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeServiceLogger\obj\Debug\EmployeeServiceLogger.csproj.AssemblyReference.cache
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeServiceLogger\obj\Debug\EmployeeServiceLogger.csproj.CoreCompileInputs.cache
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeServiceLogger\obj\Debug\EmployeeServiceLogger.csproj.CopyComplete
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeServiceLogger\obj\Debug\EmployeeServiceLogger.dll
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeServiceLogger\obj\Debug\EmployeeServiceLogger.pdb

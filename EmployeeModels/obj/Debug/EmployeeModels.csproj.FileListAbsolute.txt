@@ -6,3 +6,11 @@ C:\Users\manuk\source\repos\EmployeeService\EmployeeModels\obj\Debug\EmployeeMod
 C:\Users\manuk\source\repos\EmployeeService\EmployeeModels\obj\Debug\EmployeeModels.csproj.CopyComplete
 C:\Users\manuk\source\repos\EmployeeService\EmployeeModels\obj\Debug\EmployeeModels.dll
 C:\Users\manuk\source\repos\EmployeeService\EmployeeModels\obj\Debug\EmployeeModels.pdb
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeModels\bin\Debug\EmployeeModels.dll
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeModels\bin\Debug\EmployeeModels.pdb
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeModels\bin\Debug\System.ComponentModel.Annotations.dll
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeModels\obj\Debug\EmployeeModels.csproj.AssemblyReference.cache
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeModels\obj\Debug\EmployeeModels.csproj.CoreCompileInputs.cache
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeModels\obj\Debug\EmployeeModels.csproj.CopyComplete
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeModels\obj\Debug\EmployeeModels.dll
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeModels\obj\Debug\EmployeeModels.pdb
