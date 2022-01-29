@@ -12,3 +12,17 @@ C:\Users\manuk\source\repos\EmployeeService\EmployeeDBContext\obj\Debug\Employee
 C:\Users\manuk\source\repos\EmployeeService\EmployeeDBContext\obj\Debug\EmployeeDBContext.csproj.CopyComplete
 C:\Users\manuk\source\repos\EmployeeService\EmployeeDBContext\obj\Debug\EmployeeDBContext.dll
 C:\Users\manuk\source\repos\EmployeeService\EmployeeDBContext\obj\Debug\EmployeeDBContext.pdb
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeDBContext\bin\Debug\EmployeeDBContext.dll.config
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeDBContext\bin\Debug\EmployeeDBContext.dll
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeDBContext\bin\Debug\EmployeeDBContext.pdb
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeDBContext\bin\Debug\EmployeeModels.dll
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeDBContext\bin\Debug\EntityFramework.dll
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeDBContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeDBContext\bin\Debug\EmployeeModels.pdb
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeDBContext\bin\Debug\EntityFramework.xml
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeDBContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeDBContext\obj\Debug\EmployeeDBContext.csproj.AssemblyReference.cache
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeDBContext\obj\Debug\EmployeeDBContext.csproj.CoreCompileInputs.cache
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeDBContext\obj\Debug\EmployeeDBContext.csproj.CopyComplete
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeDBContext\obj\Debug\EmployeeDBContext.dll
+C:\MY-APPLICATIONS\SERVICE\ES\EmployeeDBContext\obj\Debug\EmployeeDBContext.pdb
